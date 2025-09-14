@@ -33,13 +33,13 @@ This project focuses on the **frontend only**, providing users with a modern, re
 ## 🖼️ Demo Preview
 
 ### Home Page
-![Home Page](./assets/screenshots/Home.png)
+![Home Page](./src/assets/screenshots/Home.png)
 
 ### Cars Page
-![Cars Page](./assets/screenshots/Cars.png)
+![Cars Page](./src/assets/screenshots/Cars.png)
 
 ### Service Page
-![Service Page](./assets/screenshots/Service.png)
+![Service Page](./src/assets/screenshots/Service.png)
 
 ---
 
@@ -54,6 +54,7 @@ This project focuses on the **frontend only**, providing users with a modern, re
 
 ## 📂 Project Structure
 
+```bash
 car-booking-frontend/
 ├── public/
 │ ├── index.html
@@ -78,7 +79,7 @@ car-booking-frontend/
 │ └── index.js
 ├── package.json
 └── tailwind.config.js
-
+```
 yaml
 Copy code
 
@@ -90,42 +91,23 @@ Copy code
    ```bash
    git clone https://github.com/tushar6263/AutoHub-Car-Booking-Application-.git
    cd car-booking-frontend
-   
-   Install dependencies
+   ```
+2. **Install dependencies**
 
-bash
-npm install
-Run development server
+   ```bash
+   npm install
+   Run development server
+   ```
 
-bash
-npm run dev
-
-🎯 How to Use
+ ### 🎯 How to Use
 Launch the app in your browser at http://localhost:3000/.
 
-Use the search form to select location, date, and transmission type.
-
-Browse featured cars and click “More Info” for details.
-
-Explore FAQs and customer reviews.
-
-📸 Screenshots
-Mobile View
-Tablet View
-in video
-
-🤝 Contributing
-Contributions are welcome!
-
-Fork the repo
-Create a new branch (feature/awesome-feature)
-Commit your changes
-Push the branch and open a Pull Request
-
-📜 License
+### 📜 License
 This project is licensed under the MIT License – feel free to use, modify, and distribute.
 
-👨‍💻 Author
+### 👨‍💻 Author
 Tushar Patel
-🔗 LinkedIn | 🐦 Twitter | 💻 Portfolio
+Portfolio :- https://my-portfolio-nine-pied-47.vercel.app/
+GitHub : https://github.com/tushar6263/
+LinkedIn:https://www.linkedin.com/in/tusharpatel626346
 
