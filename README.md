@@ -108,6 +108,8 @@ This project is licensed under the MIT License – feel free to use, modify, and
 ### 👨‍💻 Author
 Tushar Patel
 Portfolio :- https://my-portfolio-nine-pied-47.vercel.app/
+<br>
 GitHub : https://github.com/tushar6263/
+<br>
 LinkedIn:https://www.linkedin.com/in/tusharpatel626346
 
